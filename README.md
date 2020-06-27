@@ -1,1 +1,2 @@
-# C34-hw-Paint
+# synchronousBallMovement
+Ball moving synchronously
